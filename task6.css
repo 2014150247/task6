@@ -1,0 +1,312 @@
+body{
+	width: 980px;
+	height: 1386px;
+	font-family: "微软雅黑"
+	
+	
+}
+.container{
+	width: 892px;
+	height: 1386px;
+	padding: 0 44px;
+
+}
+.header-left{
+	width: 107px;
+	height: 61px;
+	padding-left:3px;
+	font-size: 12px;
+	color: #ffffff;
+	font-family: "黑体";
+	text-align: left;
+	line-height: 100px;
+	background-color: rgb(213,93,92);
+}
+header p{
+	font-size: 12px;
+	color: #d45d5c;
+	font-family: "黑体";
+	float: right;
+	
+	margin-top: -30px;
+
+}
+header hr{
+	width: 892px;
+	height: 2px;
+	background-color: #938e8c;
+	margin-top: 0px;
+	
+}
+section{
+	position: relative;
+}
+.l-img{
+	padding-top: 30px;
+}
+.green{
+	width: 191px;
+	height: 301px;
+	background-color: #abb2ff;
+	position: absolute;
+	top: 30px;
+	opacity: 0.5;
+}
+.red{
+	width: 191px;
+	height: 301px;
+	background-color: #8b864e;
+	position: absolute;
+	top: 30px;
+	right: 250px;
+	opacity: 0.5;
+}
+
+.info{
+	position: absolute;
+	top: 30px;
+	right: 0;
+}
+.info hr{
+	width: 203px;
+	height: 2px;
+	background-color: #cc8091;
+}
+.title{
+	font-size: 24px;
+	color: #000000;
+
+}
+.str{
+	font-size: 28px;
+}
+.min-word{
+	font-size: 12px;
+	color: #676767;
+	font-family: "楷体";
+	margin-top: -20px;
+}
+.number{
+	font-size: 116px;
+	color: #75b86b;
+	font-style: italic;
+	margin-top: -30px;
+	text-align: left;
+}
+.r-bottom{
+	margin-top: -140px;
+}
+.r-bottom-l{
+	font-size: 55px;
+	color: #cc8091;
+}
+.r-bottom-r{
+	position: absolute;
+	right: 35px;
+}
+.r-big{
+	font-size: 21px;
+	color: #cc8091;
+}
+.r-small{
+	margin-top: -20px;
+	font-size: 12px;
+	color: gray;
+}
+.article-1{
+	width: 210px;
+	padding: 15px;
+	float: left;
+}
+.title-1{
+	font-size: 16px;
+	color: #2e8b57;
+
+}
+.title-2{
+	font-size: 16px;
+	color: #d2994f;
+}
+.title-3{
+	font-size: 16px;
+	color: #cc7680;
+}
+.context{
+	font-size: 12px;
+	color: #231815;
+	opacity: 0.7;
+}
+.percent{
+	font-size: 16px;
+	color: #cd4a48;
+	opacity: 0.7;
+}
+.section-l{
+	width: 415px;
+}
+.yellow-word{
+	font-size: 72px;
+	color: #f5e327;
+	font-style: italic;
+}
+.blue-word{
+	font-size: 35px;
+	color: #11456b;
+
+}
+.min-blue-word{
+	font-size: 33px;
+	font-family: "黑体";
+	color: #11456b;
+
+}
+.sec-section{
+	position: relative;
+}
+.section-l hr{
+	width: 415px;
+	height: 2px;
+	background-color:  #11456b;
+}
+.first-word{
+	font-size: 70px;
+	color: #f5e327;
+	float: left;
+	margin-right: 10px;
+	margin-bottom: -5px;
+}
+.other-p{
+	text-indent: 35px;
+}
+.right-img{
+	width: 160px;
+	height: 300px;
+	float: right;
+
+}
+.section-r{
+	width: 415px;
+	float: right;
+	right: 0;
+	top: 0;
+}
+.r-img{
+	width: 458px;
+	height: 275px;
+}
+.img-bottom{
+	width: 458px;
+	height: 61px;
+	background-color: black;
+	opacity: 0.8;
+	position: absolute;
+	margin-top: -65px;
+
+}
+.green-div{
+	width: 3px;
+	height: 44px;
+	background-color: #008b45;
+	margin-left: 50px;
+	
+}
+.big-slogan{
+	font-size: 26px;
+	color: #ffffff;
+	position: absolute;
+	margin-left: 70px;
+	margin-top: -40px;
+}
+.small-slogan{
+	font-size: 12px;
+	color: #72b16a;
+	font-style: italic;
+	position: absolute;
+	margin-left: 180px;
+	margin-top: -20px;
+	
+}
+.pink-div{
+	width: 439px;
+	height: 318px;
+	background-color: rgb(238,238,214);
+	margin-top: 35px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	
+}
+.tra{
+	color: #11456b;
+}
+.catalogue{
+	font-size: 16px;
+	color: #5b5b5b;
+	font-family: "宋体";
+}
+.dark-pink{
+	background-color: rgb(213,93,92);
+	width: 260px;
+	height: 160px;
+	position: absolute;
+	margin-left: -10px;
+	margin-top: 40px;
+	
+}
+.l-number{
+	font-size: 110px;
+	color: #ffffff;
+	padding-left: 15px;
+}
+.divide{
+	width: 2px;
+	height: 86px;
+	position: absolute;
+	background-color: #ffffff;
+	margin-left: 85px;
+	margin-top: -110px;
+}
+.big{
+	font-size: 18px;
+	color: #ffffff;
+	font-style: italic;
+}
+.small{
+	font-size: 12px;
+	color: #ffffff;
+}
+.r-number{
+	position: absolute;
+	margin-left: 95px;
+	margin-top:-110px; 
+}
+.quoto{
+	float: right;
+	width: 180px;
+	margin-top: 0px;
+}
+.l-quoto{
+	color: rgb(213,93,92);
+	font-size: 72px;
+	float: left;
+}
+.r-quoto{
+	color: rgb(213,93,92);
+	font-size: 72px;
+	float: right;
+}
+.quoto p{
+	margin-top: 50px;
+
+}
+footer hr{
+	width: 892px;
+	height: 1px;
+	background-color: #938e8c;
+}
+footer p{
+	float: right;
+	font-size: 12px;
+	color: #d45d5c;
+	margin-top: -10px;
+}
